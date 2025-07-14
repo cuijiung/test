@@ -24,7 +24,7 @@
     "intro.js": "^5.1.0",
     "jquery": "^3.6.0",
     "lodash": "^4.17.21",
-    "monaco-editor": "^0.29.1",
+    "monaco-editor": "^0.52.2",
     "path-to-regexp": "3.2.0",
     "qs": "^6.10.3",
     "sql-formatter": "^4.0.2",
